@@ -1,7 +1,9 @@
 img{
     height: 40px;
     width: 40px;
+ 
 }
+
 
 .empty{
     background-color: #d4d4d4;
@@ -10,6 +12,7 @@ img{
 }
 div{
     margin-left: 38px;
+
     height: 42px;
 }
 
